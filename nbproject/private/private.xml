@@ -2,18 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/src/java/modelo/Empleado.java</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/web/index.jsp</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/web/Principal.jsp</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/src/java/modelo/EmpleadoDAO.java</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/web/Producto.jsp</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/src/java/controlodaor/Validar.java</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/web/Empleado.jsp</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/web/Clientes.jsp</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/web/RegistrarVenta.jsp</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/src/java/controlodaor/Controlador.java</file>
-            <file>file:/C:/Users/Robinson_Yesid/Documents/NetBeansProjects/SistemasVentasWeb/src/java/config/Conexion.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

@@ -21,16 +21,16 @@
                         <a class="nav-link" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a style="margin-lef: 10px; border:none" class="btn btn-outline-light" href="Controlador?accion=Producto" target="myFrame">Producto</a>
+                        <a style="margin-lef: 10px; border:none" class="btn btn-outline-light" href="Controlador?menu=Producto&accion=Listar" target="myFrame">Producto</a>
                     </li>
                     <li class="nav-item">
-                        <a style="margin-lef: 10px; border:none" class="btn btn-outline-light" href="Controlador?accion=Empleado" target="myFrame">Empleado</a>
+                        <a style="margin-lef: 10px; border:none" class="btn btn-outline-light" href="Controlador?menu=Empleado&accion=Listar" target="myFrame">Empleado</a>
                     </li>
                     <li class="nav-item">
-                        <a style="margin-lef: 10px; border:none" class="btn btn-outline-light" href="Controlador?accion=Cliente" target="myFrame">Clientes</a>
+                        <a style="margin-lef: 10px; border:none" class="btn btn-outline-light" href="Controlador?menu=Cliente&accion=Listar" target="myFrame">Clientes</a>
                     </li>
                     <li class="nav-item">
-                        <a style="margin-lef: 10px; border:none" class="btn btn-outline-light" href="Controlador?accion=NuevaVenta" target="myFrame">Nueva Venta</a>
+                        <a style="margin-lef: 10px; border:none" class="btn btn-outline-light" href="Controlador?menu=NuevaVenta&accion=BuscarCliente" target="myFrame">Nueva Venta</a>
                     </li>
                 </ul>
             </div>
@@ -52,8 +52,8 @@
                 </div>
             </div>
         </nav>
-                    <div class="m-4" style="height: 550px;">
-            <iframe name="myFrame" style="height: 100%;width: 100%"></iframe>        
+        <div class="m-4" style="height: 530px;">
+            <iframe name="myFrame" style="height: 100%;width: 100%; border: none"></iframe>        
         </div>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
